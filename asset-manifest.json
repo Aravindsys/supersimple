@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/supersimple/static/css/main.6bd53877.chunk.css",
+    "main.js": "/supersimple/static/js/main.9a162f3f.chunk.js",
+    "main.js.map": "/supersimple/static/js/main.9a162f3f.chunk.js.map",
+    "runtime-main.js": "/supersimple/static/js/runtime-main.4f64f9e4.js",
+    "runtime-main.js.map": "/supersimple/static/js/runtime-main.4f64f9e4.js.map",
+    "static/css/2.150d169a.chunk.css": "/supersimple/static/css/2.150d169a.chunk.css",
+    "static/js/2.485502de.chunk.js": "/supersimple/static/js/2.485502de.chunk.js",
+    "static/js/2.485502de.chunk.js.map": "/supersimple/static/js/2.485502de.chunk.js.map",
+    "static/js/3.ad0ad392.chunk.js": "/supersimple/static/js/3.ad0ad392.chunk.js",
+    "static/js/3.ad0ad392.chunk.js.map": "/supersimple/static/js/3.ad0ad392.chunk.js.map",
+    "index.html": "/supersimple/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/supersimple/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6bd53877.chunk.css.map": "/supersimple/static/css/main.6bd53877.chunk.css.map",
+    "static/js/2.485502de.chunk.js.LICENSE.txt": "/supersimple/static/js/2.485502de.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/supersimple/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f64f9e4.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.485502de.chunk.js",
+    "static/css/main.6bd53877.chunk.css",
+    "static/js/main.9a162f3f.chunk.js"
+  ]
+}
