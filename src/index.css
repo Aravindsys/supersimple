@@ -1,0 +1,33 @@
+:root{
+  --background-color: rgb(204, 162, 100);
+  --text-color: rgb(7, 15, 11);
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media only screen and (max-width: 500px){
+  .alignChart{
+    width: 90vw;
+    height: 60vh;
+    padding-left: 40px;
+  }
+}
+@media only screen and (min-width: 1000px){
+.alignChart{
+  width: 60vw;
+  height: 50vh;
+  padding-left: 300px;
+}
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
